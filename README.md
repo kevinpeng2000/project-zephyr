@@ -1,6 +1,7 @@
 # project-zephyr
 A dungeon crawler game
 
+/i/ todo
 - [ ] player
 - [ ] dungeon generator
 - [ ] music
@@ -11,3 +12,4 @@ A dungeon crawler game
 - [ ] items
 - [ ] moves
 - [ ] gui
+- [ ] camera
