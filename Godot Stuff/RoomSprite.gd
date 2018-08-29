@@ -5,8 +5,7 @@ extends Sprite
 # var b = "textvar"
 
 func _ready():
-	#position = Vector2(Viewport.size.x/2, Viewport.size.y/2)
-	#apply_scale(7)
+	apply_scale(7)
 	# Called when the node is added to the scene for the first time.
 	# Initialization here
 	pass
